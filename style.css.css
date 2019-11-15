@@ -1,0 +1,67 @@
+
+body{
+    background:#34495e;
+    color:#1abc9c;
+}
+
+img{
+    max-width: 100%;
+}
+.panel{
+    padding-top:78px;
+    text-align: center;
+}
+.scroll-panel{
+  margin: 0 auto;
+    text-align: center;
+}
+.navbar{
+    border-radius:0;
+    position: fixed;
+    width: 100%;
+    padding:0 20px;
+}
+section{
+    margin: 0 auto;
+}
+.jumbotron{
+    text-align: center!important;
+}
+.jumbotron-midnight{
+    background:#34495e;
+    color:#1abc9c;
+   
+
+}
+form{
+    text-align: center;
+}
+.showcase-item {
+    height:220px;
+    padding:2px;
+}
+
+.showcase-item .showcase-item-box {
+    background:#7f8c8d;
+    color: #ffffff;
+    padding:40px;
+    height:100%;
+    width:100%;
+    text-align: center;
+}
+.bottom-menu{
+    margin-top:50px;
+}
+.text-centered{text-align: center!important;}
+
+.no-margin{margin: 0;}
+.full-width{
+    width:100%;
+    text-align:middle;
+}
+@media (max-width:767px) {
+    .jumbotron h1{font-size: 31px;
+
+    }
+
+}
